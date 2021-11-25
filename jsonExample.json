@@ -1,0 +1,11 @@
+{
+    "TF_filename": "home/user/filename",
+    "Genome_filename": "home/user/filename",
+    "Output_path": "home/user/output_filename",
+    "genomes_path": "GENpath",
+    "motifs_path": "MOTIFSpath",
+    "clade": "clade_example",
+    "upstream_dist": 250,
+    "downstream_dist": 50,
+    "pseudocounts": 0.5
+}
