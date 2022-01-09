@@ -1,10 +1,10 @@
 {
-    "TF_filename": "motifs/LexA_Bacillus_subtilis.fas",
+    "TF_filename": "TF_binding_motifs.csv",
     "Genome_filename": "genomes/Bacillus_phage_pGIL01.gb",
     "Output_path": "results",
     "genomes_path": "genomes",
-    "motifs_path": "MOTIFSpath",
-    "clade": "Prevotellaceae",
+    "motifs_path": "motifs",
+    "clade": "Bacillales",
     "upstream_dist": 250,
     "downstream_dist": 50,
     "pseudocounts": 0.5
