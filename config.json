@@ -1,0 +1,11 @@
+{
+    "TF_filename": "TF_binding_motifs_copia.csv",
+    "Genome_filename": "1Nov2021_data_excluding_refseq.tsv",
+    "Output_path": "results",
+    "genomes_path": "genomes",
+    "motifs_path": "motifs",
+    "clade": "Bacillales",
+    "upstream_dist": 250,
+    "downstream_dist": 50,
+    "pseudocounts": 0.25
+}
